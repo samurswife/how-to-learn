@@ -24,13 +24,14 @@
 }
 
 .logo {
-  background-image: url(../images/logo_place_header.svg);
   background-repeat: no-repeat;
+  background-size: cover;
   width: 183px;
   height: 32px;
 }
 
 .logo_place_header {
+  background-image: url(../images/logo_place_header.svg);
   position: absolute;
   top: 30px;
   left: 64px;
@@ -38,10 +39,8 @@
 }
 
 .header__title {
-  margin: 0;
+  margin: 0 0 0 64px;
   width: 730px;
-  position: absolute;
-  left: 64px;
   line-height: 96px;
   font-size: 102px;
   z-index: 2;
@@ -64,7 +63,6 @@
 }
 
 .header__main-illustration {
-  display: inline-block;
   width: 765px;
   height: 608px;
   position: absolute;
@@ -153,7 +151,6 @@
   padding: 20px 0 0;
   line-height: 34px;
   font-size: 24px;
-  font-weight: normal;
 }
 
 .table {
@@ -199,7 +196,6 @@
 .feinman__title {
   width: 648px;
   margin: 0;
-  box-sizing: border-box;
   padding: 0 0 70px;
   line-height: 1.15;
   font-size: 120px;
@@ -217,7 +213,7 @@
   line-height: 51px;
   font-size: 36px;
   position: absolute;
-  top: 445px;
+  top: 50%;
   right: 48px;
   text-decoration: none;
   color: #000;
@@ -258,6 +254,9 @@
 }
 
 .kaufman__triangle {
+  background-image: url(../images/kaufman-triangle.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
   width: 877px;
   height: 877px;
   position: absolute;
@@ -294,7 +293,6 @@
 
 .logo_place_footer {
   background-image: url(../images/logo_place_footer.svg);
-  width: 184px; /*183px обрезает букву "М" справа */
   height: 35px;
 }
 
