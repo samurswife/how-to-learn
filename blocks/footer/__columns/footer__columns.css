@@ -1,0 +1,7 @@
+.footer__columns {
+  box-sizing: border-box;
+  min-width: 90%;
+  flex-basis: 711px;
+  display: flex;
+  justify-content: space-between;
+}

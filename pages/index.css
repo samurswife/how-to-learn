@@ -1,0 +1,57 @@
+/*PAGE*/
+@import url(../blocks/page/page.css);
+
+/*ROTATION*/
+@import url(../blocks/rotation/rotation.css);
+
+/*OPACITY*/
+@import url(../blocks/opacity/opacity.css);
+
+/*LOGO*/
+@import url(../blocks/logo/logo.css);
+
+/*HEADER*/
+@import url(../blocks/header/header.css);
+
+/*DESCRIPTION*/
+@import url(../blocks/description/description.css);
+
+/*TWO COLUMNS*/
+@import url(../blocks/two-columns/two-columns.css);
+
+/*SECTION-TITLE AND SUBTITLE*/
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+
+/*TECHNIQUES*/
+@import url(../blocks/techniques/techniques.css);
+
+/*CARDS*/
+@import url(../blocks/cards/cards.css);
+
+/*VIDEO*/
+@import url(../blocks/video/video.css);
+
+/*OAKLEY*/
+@import url(../blocks/oakley/oakley.css);
+
+/*DIGITS*/
+@import url(../blocks/digits/digits.css);
+
+/*KHAN*/
+@import url(../blocks/khan/khan.css);
+
+/*TABLE*/
+@import url(../blocks/table/table.css);
+
+/*FEINMAN*/
+@import url(../blocks/feinman/feinman.css);
+
+/*KAUFMAN*/
+@import url(../blocks/kaufman/kaufman.css);
+
+/*RESOURCES*/
+@import url(../blocks/resources/resources.css);
+
+/*FOOTER*/
+@import url(../blocks/footer/footer.css);
